@@ -1,5 +1,6 @@
 CNN/W1A2/datasets/inferno/
 CNN/W1A2/datasets/train_inferno.h5
+CNN/W1A2/datasets/FFHISMD/*
 CNN/W2A1/models/resnet50.data-00000-of-00001
 CNN/W2A1/models/resnet50.data-00001-of-00001
 CNN/W2A1/resnet50.h5
